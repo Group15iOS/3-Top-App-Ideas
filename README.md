@@ -1,6 +1,6 @@
 # Top-App
 
-    Pulbic Album
+    Picture Perfect
   - Description: Allows users to take a photo of a location then provides them with directions to the location as well as 
   allowing them to check in and the more the location gets visited it would be pinned as popular - possible follower/point 
   system for people who upload the most popular spots

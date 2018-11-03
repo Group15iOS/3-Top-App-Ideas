@@ -26,8 +26,7 @@ system for people who upload the most popular spots
 -Follow or gain followers
 
 ---
-###**Required Must-have Stories**
-
+###Required Must-have Stories
  - User can create a new account 
  - User can login
  - User can view a feed of photos

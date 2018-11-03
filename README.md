@@ -33,7 +33,20 @@ system for people who upload the most popular spots
  - User can follow/unfollow another user
  - User can search for other users
  - User can like a photo
-### Wireframes
+ ---
+ ### ## 2. Screen Archetypes
+
+ - Login Screen
+        User can login
+ - Registration Screen
+        User can create a new account
+ - Stream
+        User can view a feed of photos with locations 
+ - Creation
+        User can post a new photo to their feed with locations and details of location
+ - Search
+        User can search for other locations
+        User can follow/unfollow another user### Wireframes
 // TODO: Add Wireframe Images
 
 ---

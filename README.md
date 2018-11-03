@@ -34,7 +34,7 @@ system for people who upload the most popular spots
  - User can search for other users
  - User can like a photo
  ---
- ### ## 2. Screen Archetypes
+ ### Screen Archetypes
 
  - Login Screen
         User can login
@@ -47,6 +47,31 @@ system for people who upload the most popular spots
  - Search
         User can search for other locations
         User can follow/unfollow another user### Wireframes
+---
+### Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ - Home screen - looking at the feed of pictures with the location 
+ - Upload Photo - you can upload a photo of a location 
+ - Explore screen - see locations near you will provide details of directions 
+ - Profile - see you uploads and comments on uploads as well as people you follow
+
+**Flow Navigation** (Screen to Screen)
+
+ - Login/Sign up screen
+   * --> Home
+   * ...
+ - Registration Screen
+   * --> Home
+ - Feed screen
+   * --> User will continue to scroll through the feed
+   * --> Home after posting a picture
+  
+ - Search
+   * --> Will take you to profiles of those who tagged the location you searched
+
+
 // TODO: Add Wireframe Images
 
 ---

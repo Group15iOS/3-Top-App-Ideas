@@ -27,6 +27,14 @@ system for people who upload the most popular spots
 
 ---
 
+**Required Must-have Stories**
+
+ * User can create a new account 
+ * User can login
+ * User can view a feed of photos
+ * User can follow/unfollow another user
+ * User can search for other users
+ * User can like a photo
 ### Wireframes
 // TODO: Add Wireframe Images
 
